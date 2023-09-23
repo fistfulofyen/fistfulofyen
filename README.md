@@ -15,7 +15,7 @@ I'm an engineering student at McMaster University, and this is my GitHub profile
 
 Here are some of the projects you'll find in my repositories:
 
-- 😸[Deep Learning for at pictures](https://github.com/fistfulofyen/Deep_Learning_For_Cat_Pictures.git): You get the idea!
+- 😸[Deep Learning for cat pictures](https://github.com/fistfulofyen/Deep_Learning_For_Cat_Pictures.git): You get the idea!
 - 🎮[Minigame](https://github.com/fistfulofyen/MiniGames.git): Minigame clone, sorta.
 
 Feel free to explore my repositories to see my work and contributions. If you have any questions or feedback, please don't hesitate to reach out.
