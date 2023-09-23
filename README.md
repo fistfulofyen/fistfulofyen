@@ -9,7 +9,7 @@ I'm an engineering student at McMaster University, and this is my GitHub profile
 - 🎓 Currently pursuing a degree in Electrical Engineering at McMaster University.
 - 🌱 I'm passionate about Mechine Learning and Digital Communication, and I love to apply my engineering skills to solve real-world problems.
 - 💼 I'm always eager to learn and collaborate on exciting projects.
-- 📫 You can reach me at [zhangmike1999@gmail.com] or connect with me on [Linkedin](https://www.linkedin.com/in/yumingzhang1999?original_referer=https%3A%2F%2Fgithub.com%2F).
+- 📫 You can connect with me on [Linkedin](https://www.linkedin.com/in/yumingzhang1999?original_referer=https%3A%2F%2Fgithub.com%2F).
 
 ## My Projects
 
