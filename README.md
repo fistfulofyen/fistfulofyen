@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-<!--
 # Hello, I'm Mike Zhang 👋
 
 I'm an engineering student at McMaster University, and this is my GitHub profile where I share my coding projects and experiments. Welcome to my little corner of the coding world!
