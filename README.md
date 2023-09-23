@@ -27,6 +27,8 @@ I'm familiar with a variety of programming languages and tools, including:
 - 🍵Java
 - 🥲C/C++
 - 🎨HTML/CSS
+- 👽Javascript
+- 📈Matlab
 - 👨‍💻Git/GitHub
 - ✨And more!
 
