@@ -31,7 +31,7 @@ I'm familiar with a variety of programming languages and tools, including:
 - 🎨 HTML/CSS
 - 👽 Javascript
 - 📈 Matlab
-- 👨‍💻 Git/GitHub
+- 👨‍💻 SQL
 - ✨ And more!
 
 ## Let's Connect
