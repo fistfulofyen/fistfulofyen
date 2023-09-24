@@ -2,7 +2,7 @@
 
 # Hello, I'm Mike Zhang 👋
 
-I'm an engineering student at McMaster University, and this is my GitHub profile where I share my coding projects and experiments. Welcome to my little corner of the coding world!
+I'm an engineering student at McMaster University, and this is my GitHub profile where I share my coding projects and experiments, mostly used to sync files between my PC and laptop. Welcome to my little corner of the coding world!
 
 ## About Me
 
