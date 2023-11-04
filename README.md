@@ -20,7 +20,7 @@ Here are some of the projects you'll find in my repositories:
 - ⚡[Electric Field Sim](https://github.com/fistfulofyen/Electric_field_of_point_changes): Electric field of point changes.
 - 🎮[Minigame](https://github.com/fistfulofyen/MiniGames.git): Minigame clone, sorta.
 
-Feel free to explore my repositories to see my work and contributions. If you have any questions or feedback, please don't hesitate to reach out.
+Feel free to explore my repositories to see my work and contributions.
 
 ## Technologies I Work With
 
