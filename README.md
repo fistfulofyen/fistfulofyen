@@ -28,11 +28,11 @@ I'm familiar with a variety of programming languages and tools, including:
 
 - 🐍 Python
 - 🍵 Java
-- 🥲 C/C++
+- 👨‍💻 C/C++
 - 🎨 HTML/CSS
 - 👽 Javascript
 - 📈 Matlab
-- 👨‍💻 SQL
+- 📅 SQL
 - ✨ And more!
 
 ## Let's Connect
