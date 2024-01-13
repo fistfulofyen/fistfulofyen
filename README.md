@@ -27,7 +27,6 @@ Feel free to explore my repositories to see my work and contributions.
 I'm familiar with a variety of programming languages and tools, including:
 
 - 🐍 Python
-- 🍵 Java
 - 👨‍💻 C/C++
 - 🎨 HTML/CSS
 - 👽 Javascript
