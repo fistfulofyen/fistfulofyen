@@ -9,7 +9,7 @@ I'm an engineering student at McMaster University, and this is my GitHub profile
 - 🎓 Currently pursuing a degree in Electrical Engineering at McMaster University.
 - 🌱 I'm passionate about Mechine Learning, Game Development, and Internet Communication, and I love to apply my engineering skills to solve real-world problems.
 - 💻 I have a deep interest in building custom PCs and exploring the latest hardware trends.
-- 💼 I'm always eager to learn and collaborate on exciting projects.
+- 💼 I'm always eager to learn and collaborate on exciting projects. [my portfolio](https://fistfulofyen.github.io/my_portfolio/)
 - 📫 You can connect with me on [Linkedin](https://www.linkedin.com/in/yumingzhang1999?original_referer=https%3A%2F%2Fgithub.com%2F).
 
 ## My Projects
