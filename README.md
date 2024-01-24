@@ -36,7 +36,7 @@ I'm familiar with a variety of programming languages and tools, including:
 - ✨ And more!
 
 ## Let's Connect
-[![Mike's GitHub stats](https://github-readme-stats.vercel.app/api?username=fistfulofyen)](https://github.com/anuraghazra/github-readme-stats)
+[![Mike's GitHub stats](https://github-readme-stats.vercel.app/api?username=fistfulofyen\&rank_icon=github)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fistfulofyen)](https://github.com/anuraghazra/github-readme-stats)
 Happy coding! 🚀
