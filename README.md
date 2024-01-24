@@ -23,7 +23,7 @@ Here are some of the projects you'll find in my repositories:
 
 Feel free to explore my repositories to see my work and contributions.
 
-## Technologies I Work With
+## Languages I Work With
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fistfulofyen&size_weight=0.25&count_weight=0.75&langs_count=7&hide=jupyter%20notebook)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Let's Connect
