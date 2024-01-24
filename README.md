@@ -36,9 +36,6 @@ I'm familiar with a variety of programming languages and tools, including:
 - ✨ And more!
 
 ## Let's Connect
-
-I'm always excited to connect with fellow developers, students, and anyone interested in engineering or coding. Feel free to follow me on GitHub, send me a message, or connect with me on LinkedIn. Let's learn and grow together!
-
-Thank you for stopping by, and I look forward to sharing my coding journey with you.
+[![Mike's GitHub stats](https://github-readme-stats.vercel.app/api?username=fistfulofyen)](https://github.com/anuraghazra/github-readme-stats)
 
 Happy coding! 🚀
