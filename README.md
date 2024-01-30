@@ -2,10 +2,9 @@
 
 # I'm Mike 👋
 
-I'm an engineering student at McMaster University, and this is my GitHub profile where I share my coding projects and experiments, mostly used to sync files between my PC and laptop. Welcome to my little corner of the coding world!
+I'm an engineering student at McMaster University, and this is my GitHub profile where I share my coding projects and experiments. Welcome to my little corner of the coding world!
 
 ## About Me
-
 - 🎓 Currently pursuing a degree in Electrical Engineering at McMaster University.
 - 🌱 I'm passionate about Mechine Learning, Game Development, and Internet Communication, and I love to apply my engineering skills to solve real-world problems.
 - 💻 I have a deep interest in building custom PCs and exploring the latest hardware trends.
@@ -13,7 +12,6 @@ I'm an engineering student at McMaster University, and this is my GitHub profile
 - 📫 You can connect with me on [Linkedin](https://www.linkedin.com/in/yumingzhang1999?original_referer=https%3A%2F%2Fgithub.com%2F).
 
 ## My Projects
-
 Here are some of the projects you'll find in my repositories:
 
 - 😸[Deep Learning for cat pictures](https://github.com/fistfulofyen/Deep_Learning_For_Cat_Pictures.git): You get the idea!
