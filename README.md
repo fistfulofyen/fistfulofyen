@@ -27,5 +27,5 @@ Feel free to explore my repositories to see my work and contributions.
 ## Let's Connect
 [![Mike's GitHub stats](https://github-readme-stats.vercel.app/api?username=fistfulofyen\&rank_icon=github)](https://github.com/anuraghazra/github-readme-stats)
 
-
+[![Leetcode Stats](https://leetcard.jacoblin.cool/fistfulofyen?theme=unicorn)](https://leetcode.com/fistfulofyen)
 Happy coding! 🚀
