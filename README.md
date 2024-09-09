@@ -5,7 +5,7 @@
 I'm an engineering student at McMaster University, and this is my GitHub profile where I share my coding projects and experiments. Welcome to my little corner of the coding world!
 
 ## About Me
-- 🎓 Currently pursuing a degree in Electrical Engineering at McMaster University.
+- 🎓 Graduated in Electrical Engineering at McMaster University.
 - 🌱 I'm passionate about Mechine Learning, Embedded Systems, and Internet Communication, and I love to apply my engineering skills to solve real-world problems.
 - 💻 I have a deep interest in building custom PCs and exploring the latest hardware trends.
 - 💼 I'm always eager to learn and collaborate on exciting projects. [My portfolio](https://fistfulofyen.github.io/my_portfolio/)
