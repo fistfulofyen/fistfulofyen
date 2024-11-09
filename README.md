@@ -2,7 +2,7 @@
 
 # I'm Mike 🧙‍♂️✨
 
-I'm an engineering student at McMaster University, and this is my GitHub profile where I share my coding projects and experiments. Welcome to my little corner of the coding world!
+This is my GitHub profile where I share my coding projects and experiments. Welcome to my little corner of the coding world!
 
 ## About Me
 - 🎓 Graduated in Electrical Engineering at McMaster University.
