@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-# I'm Mike 🧙‍♂️✨
+## I'm Mike 🧙‍♂️✨
 
-# Would you like a cookie🍪 in these trying times?
+### Would you like a cookie🍪 in these trying times?
 
 ## My Projects
 Here are some of the projects you'll find in my repositories:
@@ -14,11 +14,10 @@ Here are some of the projects you'll find in my repositories:
 
 Feel free to explore my repositories to see my work and contributions.
 
-## Languages I Work With
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fistfulofyen&size_weight=0.25&count_weight=0.75&langs_count=8&hide=jupyter%20notebook,makefile&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Mike's GitHub stats](https://github-readme-stats.vercel.app/api?username=fistfulofyen\&rank_icon=github)](https://github.com/anuraghazra/github-readme-stats)
 
 
-[![Leetcode Stats](https://leetcard.jacoblin.cool/fistfulofyen?hide=ranking,easy-solved-count,medium-solved-count,hard-solved-count)](https://leetcode.com/fistfulofyen)
+[![Leetcode Stats](https://leetcard.jacoblin.cool/fistfulofyen?hide=ranking,easy-solved-count,medium-solved-count,hard-solved-count)](https://leetcode.com/fistfulofyen) <br />
 Happy coding! 🚀
