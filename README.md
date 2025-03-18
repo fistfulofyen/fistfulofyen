@@ -2,7 +2,11 @@
 
 ## I'm Mike 🧙‍♂️✨
 
-### Would you like a cookie🍪 in these trying times?
+- 🎓 Graduated in Electrical Engineering at McMaster University.
+- 🌱 I'm passionate about Mechine Learning, Embedded Systems, and Internet Communication, and I love to apply my engineering skills to solve real-world problems.
+- 💻 I have a deep interest in building custom PCs and exploring the latest hardware trends.
+
+Would you like a cookie🍪 in these trying times?
 
 ## My Projects
 Here are some of the projects you'll find in my repositories:
