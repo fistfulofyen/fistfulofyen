@@ -2,9 +2,7 @@
 
 ## I'm Mike 🧙‍♂️✨
 
-- 🎓 Graduated in Electrical Engineering at McMaster University.
-- 🌱 I'm passionate about Mechine Learning, Embedded Systems, and Internet Communication, and I love to apply my engineering skills to solve real-world problems.
-- 💻 I have a deep interest in building custom PCs and exploring the latest hardware trends.
+- 🎓 bachelor's and Master's in Electrical and Computer Engineering at McMaster University.
 
 Would you like a cookie🍪 in these trying times?
 
